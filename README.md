@@ -1,5 +1,5 @@
 ### Hi there 👋
-![logo](https://github.com/Akash252002/Akash252002/blob/main/logo.jpg)
+
 <!--
 **Akash252002/Akash252002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Akash Kumar</h1>
 <h3 align="center">A Data Scientist and Full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash252002&label=Profile%20views&color=0e75b6&style=flat" alt="akash252002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash252002" alt="akash252002" /></a> </p>
