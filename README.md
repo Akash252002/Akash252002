@@ -1,5 +1,5 @@
 ### Hi there 👋
-[!]logo(https://github.com/Akash252002/Akash252002/blob/main/logo.jpg)
+![logo](https://github.com/Akash252002/Akash252002/blob/main/logo.jpg)
 <!--
 **Akash252002/Akash252002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
